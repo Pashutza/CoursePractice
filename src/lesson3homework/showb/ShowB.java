@@ -1,4 +1,4 @@
-package showb;
+package lesson3homework.showb;
 
 public class ShowB {
     public void showMethodName(){

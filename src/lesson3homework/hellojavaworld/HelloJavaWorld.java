@@ -1,7 +1,7 @@
-package hellojavaworld;
+package lesson3homework.hellojavaworld;
 
-import showa.ShowA;
-import showb.ShowB;
+import lesson3homework.showa.ShowA;
+import lesson3homework.showb.ShowB;
 
 public class HelloJavaWorld {
    public static void main(String[] args){
