@@ -2,7 +2,7 @@ package lesson5homework.exercise3;
 
 import java.util.Scanner;
 
-public class Module {
+public class TypeNumber {
     public static void main(String[] args) {
         System.out.println("Enter the number: ");
         Scanner scanner = new Scanner(System.in);
