@@ -21,6 +21,7 @@ public class CompareAreaRectangle {
     }
 
     private static double area(double a, double b) {
+
         return a * b;
     }
 
