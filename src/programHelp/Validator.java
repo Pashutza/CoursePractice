@@ -1,4 +1,4 @@
-package ProgramHelp;
+package programHelp;
 
 import java.util.Scanner;
 

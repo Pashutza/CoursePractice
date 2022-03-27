@@ -1,6 +1,6 @@
 package lesson9homework.exercise1;
 
-import ProgramHelp.Validator;
+import programHelp.Validator;
 
 public class RectangleArea {
     public static void main(String[] args) {
